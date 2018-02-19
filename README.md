@@ -1,6 +1,6 @@
-C-LSTM: Enabling efficient LSTM using structured compression techniques
+#C-LSTM: Enabling efficient LSTM using structured compression techniques
 
-1. # LSTM-simulator-with-inference
+1. LSTM-simulator-with-inference
 LSTM simulator with inference using FFT and IFFT
 
 
