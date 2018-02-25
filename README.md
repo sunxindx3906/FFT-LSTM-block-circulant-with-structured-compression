@@ -11,5 +11,7 @@ LSTM simulator with inference using FFT and IFFT
 
 4. Design graph
 
+before running the code, you need to make some configuration in your VS. for example, you need to use X64 release mode to run the code.
+
  
  
